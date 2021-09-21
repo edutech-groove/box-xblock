@@ -21,8 +21,8 @@ def package_data(pkg, roots):
 
 
 setup(
-    name='box-xblock',
-    version='edt.1.0.1',
+    name='edt-box-xblock',
+    version='1.0.1',
     description='An XBlock for creating coloured boxed content',
     license='AGPL v3',
     packages=[

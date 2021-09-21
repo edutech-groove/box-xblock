@@ -48,5 +48,5 @@ Temporary Items
 
 # Compiled python files
 *.pyc
-box_xblock.egg-info
+*.egg-info
 dist/
